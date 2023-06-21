@@ -20,6 +20,7 @@ function App() {
             <Route path={'/topRated'} element={ <TopRated/> }/>
             <Route path={'/movie/details/:movieId'} element={<MovieDetails/>}/>
             <Route path={"/movie/details/:movieId"} element={<MovieDetails/>}/>
+
         </Routes>
         <Footer/>
     </div>
