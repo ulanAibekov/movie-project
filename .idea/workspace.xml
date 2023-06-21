@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c99c882f-60cb-43ab-b4f8-47da385ce2cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/movie-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/API/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Actor/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Actor/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Footer/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Header/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Home/index.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/MoviCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/MoviCard/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Page/MovieDetails/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Page/MovieDetails/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Popular/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Popular/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/TopRated/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/TopRated/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Treller/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conponent/Treller/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RW3J8ibLcth00ljGphZ2MqLjba" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c99c882f-60cb-43ab-b4f8-47da385ce2cb" name="Changes" comment="" />
+      <created>1687351937283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687351937283</updated>
+      <workItem from="1687351938664" duration="836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

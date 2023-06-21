@@ -1,0 +1,10 @@
+#popular{
+  padding: 60px 0;
+  background: url(https://images.wallpaperscraft.ru/image/single/linii_shtrihi_piatna_137329_3240x5760.jpg) center center / cover no-repeat;
+  .popular{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+  }
+}

@@ -1,0 +1,28 @@
+@import "conponent/Header/index";
+@import "conponent/Home/index";
+@import "conponent/Footer/index";
+@import "conponent/Popular/index";
+@import "conponent/TopRated/index";
+@import "conponent/MoviCard/index";
+@import "conponent/Page/MovieDetails/index";
+@import "conponent/Actor/index";
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}

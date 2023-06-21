@@ -1,0 +1,35 @@
+#movieCard{
+  .movieCard{
+    width: 210px;
+    height: 440px;
+    border-radius: 20px;
+    transition: .4s;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    a{
+      .img {
+        width: 210px;
+        height: 350px;
+        border-radius: 20px;
+      }
+    }
+    h3{
+      color: white;
+      font-size: 20px;
+      margin-top: 6px;
+    }
+    h4{
+      font-size: 16px;
+      color: white;
+      margin: 5px 0 5px 0;
+    }
+  }
+  .movieCard:hover{
+    box-shadow: 0 0 10px white inset;
+    transform: scale(1.1);
+
+  }
+}
